@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: "DEMG-NFCA synthetic study: code and results"
+version: "1.0.1"
+doi: 10.5281/zenodo.23890888
+date-released: 2026-11-02
+license: MIT
+repository-code: "https://github.com/mahibgm9676-lab/DEMG_NFCA"
+abstract: "Python notebook, result files and figures for the DEMG-NFCA synthetic study. All data are generated from fixed random seeds."
+keywords:
+  - neutrosophic sets
+  - formal concept analysis
+  - concept drift
+authors:
+  - family-names: Thathappagaari
+    given-names: Uma Maherswari
+    affiliation: "School of Advanced Sciences, Vellore Institute of Technology, Vellore, Tamil Nadu, 632014, India"
+    email: uma.maherswari@vit.ac.in
+  - family-names: S
+    given-names: Kaspar
+    affiliation: "School of Advanced Sciences, Vellore Institute of Technology, Vellore, Tamil Nadu, 632014, India"
+    email: skaspar@vit.ac.in
